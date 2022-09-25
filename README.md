@@ -7,7 +7,7 @@ After using Kali Linux with KDE for 3 years, I realized 2 things
 1. I don't need these many pre-installed tools
 2. I don't need to torture myself this much 
 
-So after breaking too many dependecies and no way of recovering things I decided to move on to KUbuntu (yeah I know I love KDE a bit too much) and setup my tools and workspace I made in Kali over there. So this repo will be a journey of that from initial installation to some minor changes I make from scratch over a long period of time before I break that setup too and have to mobe on to another one and need to setup again. 
+So after breaking too many dependecies and no way of recovering things I decided to move on to KUbuntu (yeah I know I love KDE a bit too much) and setup my tools and workspace I made in Kali over there. So this repo will be a journey of that from initial installation to some minor changes I make from scratch over a long period of time before I break that setup too and have to move on to another one and need to setup again. 
 
 So instead of remebering hard for all the changes, tools and scripts I needed and made. This will be my FTL drive to get back to working as soon as possible with all the changes I loved in my previous systems.
 
